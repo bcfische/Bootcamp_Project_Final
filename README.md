@@ -1,4 +1,4 @@
-#The effect of crime rate on Airbnb business.
+<b>The effect of crime rate on Airbnb business</b>.
 
 The project idea is to check whether the crime rate of a particular neighborhood influences the pricing and the bookings for Airbnb. Chose the city of Chicago for the project.
 
