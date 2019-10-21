@@ -1,6 +1,6 @@
-<b>The Effect of crime rate on Airbnb </b>.
+<b>Are Airbnb listings affected by crime rate?</b>
 
-The project idea is to check whether the crime rate of a particular neighborhood influences the pricing and business for Airbnb. Chose the city of Chicago for the project.
+The project idea is to examine whether the crime rate of a particular neighborhood influences the pricing and business for Airbnb listings. We taergeted the city of Chicago for this project.
 
 Data Munging
 
